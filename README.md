@@ -1,5 +1,5 @@
 <h1 align="center" style="color: #4CAF50;">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+Folks!+👋;+I'm+Hernan+Gasca!+;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+Folks+How's+it+going?!+👋;+I'm+Hernan+Gasca!+;" />
 </h1>
 <h3 align="center">Petroleum Engineer focused on Subsurface & ALS  🧪🛢️📊!</h3>
 
